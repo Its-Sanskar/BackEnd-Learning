@@ -1,0 +1,16 @@
+{
+  "name": "youtubelikebackend",
+  "version": "1.0.0",
+  "description": "This app is for learning backend ,in this project we study backend like youtube",
+  "keywords": [
+    "BackEnd",
+    "YouTubeClonBackend"
+  ],
+  "license": "ISC",
+  "author": "Sanskar Sahu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
